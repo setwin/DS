@@ -5,6 +5,7 @@
 * https://edube.org/learn/pe-1/python-essentials-1-module-1-2
 * https://madewithml.com/
 * https://developers.google.com/machine-learning/crash-course
+* https://infytq.onwingspan.com/web/en/page/home
 
 ## Coding Website
 * https://exercism.org/users/sign_in
@@ -13,7 +14,6 @@
 * https://www.hackerearth.com/
 * https://www.w3schools.com/
 * https://www.geeksforgeeks.org/python-oops-concepts/?ref=lbp
-* https://infytq.onwingspan.com/web/en/page/home
 
 ## Data Hub
 * https://indianrailapi.com/api-collection
